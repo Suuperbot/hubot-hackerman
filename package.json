@@ -1,0 +1,23 @@
+{
+  "name": "hubot-hackerman",
+  "version": "1.0.0",
+  "description": "A random Hackerman quote generator for hubot",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pric/hubot-hackerman.git"
+  },
+  "keywords": [
+    "hubot",
+    "hackerman"
+  ],
+  "author": "Philippe Richard <philippe.richard93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pric/hubot-hackerman/issues"
+  },
+  "homepage": "https://github.com/pric/hubot-hackerman"
+}
